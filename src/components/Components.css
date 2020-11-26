@@ -1,0 +1,46 @@
+.container{
+    margin: 0;
+    height: 95vh;
+    min-width: 100%;
+    background-color: rgb(165, 202, 235);
+    text-align: center;
+
+    /* top: 50%; */
+    /* justify-content: space-around; */
+    /* background-image: url(../hero-image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+
+.home_content{
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.hero_h1{
+    font-size: 80px;
+}
+
+.hero_h2{
+    font-size: 40px;
+}
+
+.hero_button {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+.nav_bar{
+    height: 5vh;
+}
+.navbar-nav
+.nav_links{
+    float: left;
+    right: 0;
+    color: black;
+}
